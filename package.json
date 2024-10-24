@@ -11,7 +11,7 @@
     "@vue/cli-plugin-babel": "4.1.1",
     "framework7": "5.5.4",
     "framework7-vue": "5.5.4",
-    "vue": "2.6.11"
+    "vue": "3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "4.1.1",
